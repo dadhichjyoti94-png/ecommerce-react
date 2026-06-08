@@ -11,7 +11,8 @@ import Aboutus from './components/Aboutus';
 import Contactus from './components/Contactus';
 
 import Commonlayout from './Commonlayout';
-import ProductListing from './components/Productlisting';
+// import ProductListing from './components/Productlisting';
+import ProductListing from './components/ProductListing';
 import Productdetail from './components/Productdetail'
 
 
